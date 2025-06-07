@@ -1,0 +1,72 @@
+.container{
+	justify-content: center;
+	margin: 25px;
+	display: flex ;
+}
+
+.imagen{
+width: 250px;
+height:200px ;
+border-radius: 20px;
+
+
+}
+
+.imagen1{
+width: 500px;
+height:200px ;
+border-radius: 20px;
+align-content: center;
+}
+
+
+.card{
+	text-align: center;
+	box-shadow: rgba(0, 0, 0, 0.35)0px 5px 15px;
+	margin: 0 10px;
+	background-color: skyblue;
+	}
+
+.card2{
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	width: 300px;
+	align-content: center;
+
+}
+.video{
+	width: 200px;
+
+}
+.titulo{
+	font-size: 20px;
+	color: ivory;
+	font-family: S;
+}
